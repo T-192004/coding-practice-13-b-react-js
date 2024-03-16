@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.tab-item-btn {
+  border-width: 0px 0px 2px 0px;
+  border-color: #7b8794;
+  padding: 10px;
+  text-align: center;
+  width: 120px;
+  color: 7b8794;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+.active-btn {
+  border-color: #2563eb;
+}
